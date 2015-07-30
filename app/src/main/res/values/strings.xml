@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DialogsLab</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="pick_color">Pick a Color</string>
+    <array name="colors_array">
+        <item name="red">Red</item>
+        <item name="green">Green</item>
+        <item name="blue">Blue</item>
+    </array>
+    <string name="launch_list_dialog">Launch List Dialog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dialog_fire_missiles">Fire Missiles!!</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="launch_simple_dialog">Launch Simple Dialog</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="pick_toppings">Pick a Topping</string>
+    <array name="toppings_array">
+        <item name="pepperoni">Pepperoni</item>
+        <item name="mushrooms">Mushrooms</item>
+        <item name="peppers">Peppers</item>
+    </array>
+    <string name="ok">OK</string>
+
+    <string name="launch_multi_dialog">Launch Multiple Dialog</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="username">Enter username</string>
+    <string name="password">Enter password</string>
+    <string name="signin">Sign In</string>
+    <string name="launch_custom_dialog">Launch Custom Dialog</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="launch_time_picker_dialog">Launch Time Picker Dialog</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="launch_date_picker_dialog">Launch Date Picker Dialog</string>
+
+</resources>
